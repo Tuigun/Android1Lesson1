@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android1Lesson1</string>
+    <string name="welcome">Добро Пожаловать</string>
+    <string name="Login">Логин</string>
+    <string name="Password">Введите Пароль</string>
+    <string name="register">Регистрация</string>
+    <string name="warning_fil_fields">Зополните Поля</string>
+</resources>
